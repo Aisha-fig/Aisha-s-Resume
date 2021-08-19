@@ -1,0 +1,47 @@
+body{
+    scroll-behavior: smooth;
+    font-family: 'Montserrat', sans-serif;
+	line-height: 1.6;
+}
+
+/* MAIN */
+
+/* Icon */
+.bg-gold{
+    background-color: #FE9C02;
+}
+.text-gold{
+    color: #FE9C02;
+}
+
+/* Professional Summary */
+
+.proSummary h3{
+    border-left: 5px solid yellow;
+    padding-left: 10px;
+    letter-spacing: 2px;
+}
+
+/* highlights */
+
+.hlights h3{
+    border-left: 5px solid yellow;
+    padding-left: 10px;
+    letter-spacing: 2px;
+}
+
+
+/* experience */
+
+.xperience h3{
+    border-left: 5px solid yellow;
+    padding-left: 10px;
+    letter-spacing: 2px;
+}
+
+.xpr{
+    display: flex;
+    justify-content: space-between;
+    list-style: disc !important;
+    margin-top: 20px;
+}
